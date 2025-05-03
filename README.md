@@ -26,7 +26,7 @@
 
 ## 前置需求
 
--   **Python 3.8+**
+-   **Python 3.8+（已知問題：Python 3.13+不支援）**
 -   **OpenAI API Key**
     -   請至 OpenAI 帳號設定 申請並取得 API Key
 -   **ffmpeg**
@@ -53,8 +53,8 @@
 
 1.  **Clone 本專案**
     ```bash
-    git clone https://github.com/your-repo/transcription-script.git
-    cd transcription-script
+    git clone https://github.com/Daniel77871/Audio-Transcription-Script.git
+    cd Audio-Transcription-Script
     ```
 2.  **建立並啟用虛擬環境**
     ```bash
